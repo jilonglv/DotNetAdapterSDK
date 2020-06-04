@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net40</TargetFrameworks>
+
+    <Description>
+      netstandard2.0+;net40+;
+    </Description>
+    <Copyright>jilonglv 2020</Copyright>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <Authors>jilonglv</Authors>
+    <AssemblyTitle>DotNetAdapterSDK</AssemblyTitle>
+    <AssemblyName>DotNetAdapterSDK</AssemblyName>
+    <PackageId>DotNetAdapterSDK</PackageId>
+    <PackageTags>MTConnect;core</PackageTags>
+    <!--<PackageProjectUrl>https://github.com/jilonglv/DotNetAdapterSDK</PackageProjectUrl>-->
+  </PropertyGroup>
+
+</Project>
